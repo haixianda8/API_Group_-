@@ -1,1 +1,9 @@
+# API组舆情报告工作日志
+## 使用提示词
+### 数据收集
+- [提示词1] 舆情爬取指令：...
 
+## LaTeX样式设置
+\documentclass{article}
+\usepackage{xeCJK} % 中文字体支持
+% 更多样式设置...
